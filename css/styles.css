@@ -726,4 +726,5 @@ input[type='checkbox'] {
   left: 14px;
   top: 4px;
   z-index: 2;
+  cursor: pointer;
 }
